@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Manikant Pandey
+- 👀 I’m interested in Development
+- 🌱 I’m currently learning Full Stack Development
+- 💞️ I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me " mani73244@gmail.com " 
